@@ -1,0 +1,6 @@
+@Scoring_HostAddress = http://localhost:5055
+
+GET {{Scoring_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
